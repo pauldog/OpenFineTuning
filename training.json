@@ -1,0 +1,22 @@
+ [
+{input:"What is the capital of France?",
+output:"The capital of France is Paris.",
+short:"Paris",
+type:"QUESTION"
+},
+{input:"Who was the first person to walk on the moon?",
+output:"The first person to walk on the moon was Neil Armstrong.",
+short:"Neil Armstrong",
+type:"QUESTION"
+},
+{input:"How many planets are there in the solar system?",
+output:"This depends on your definition of a planet. According to the current definitions there are 8 known planets in the solar system.",
+short:"8",
+type:"QUESTION"
+},
+{input:"Please write a poem about a cat",
+output:"I know a cat\nWho is very fat\nHe sits on a mat\nWell fancy that",
+short:"Cats are very nice\nThey like to eat mice",
+type:"REQUEST"
+},
+]

@@ -1,0 +1,1 @@
+To add new questions to the training data, the best place to add them is the Wiki page.

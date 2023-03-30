@@ -22,3 +22,5 @@ These are some useful data you could use for training:
 [Health Forum json](https://github.com/LasseRegin/medical-question-answer-data/blob/master/ehealthforumQAs.json)
 
 [First lines of novels](https://github.com/janelleshane/novel-first-lines-dataset) Useful to train a story writing LLM?
+
+[Open Assistant](https://open-assistant.io/) A similar open source project

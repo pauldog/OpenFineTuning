@@ -8,4 +8,4 @@ For reference the Alpaca traing set is [here](https://github.com/tatsu-lab/stanf
 
 There are lots of different ways to fine tune a model. For example, could we fine tune it to be good at tic-tac-toe?
 
-Each fine tuning can be thought of as an intensive course that the AI is studying.
+Each fine tuning can be thought of as an intensive course that the AI is studying. Therefor there could be arguments for splitting the fine training data into different categories.

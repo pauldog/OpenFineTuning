@@ -20,3 +20,5 @@ These are some useful data you could use for training:
 [Multiple Choice json](https://gist.github.com/cmota/f7919cd962a061126effb2d7118bec72)
 
 [Health Forum json](https://github.com/LasseRegin/medical-question-answer-data/blob/master/ehealthforumQAs.json)
+
+[First lines of novels](https://github.com/janelleshane/novel-first-lines-dataset) Useful to train a story writing LLM?
